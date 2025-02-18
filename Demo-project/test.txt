@@ -1,1 +1,2 @@
 echo "this is my first ci/cd pipeline"
+echo "welcome to ci/cd pipeline"
